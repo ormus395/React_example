@@ -1,0 +1,26 @@
+.Login {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.Form {
+  margin-top: 25%;
+  height: 25%;
+  width: 50%;
+  border-radius: 5px;
+  background-color: rgba(204, 204, 204, 0.8);
+  padding: 20px;
+}
+
+.Form input {
+  width: 100%;
+  padding: 5px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+.Form button {
+  width: 100%;
+}

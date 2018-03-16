@@ -1,0 +1,8 @@
+.NewPost {
+  display: flex;
+  flex-direction: column;
+}
+
+.NewPost textarea {
+  height: 250px;
+}
